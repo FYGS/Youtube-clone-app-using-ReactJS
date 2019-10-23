@@ -11,4 +11,4 @@ We're going to mention:
 * passing props from parent to child components
 * API calls and much more  
 
-[Deploiement link](https://hopeful-stonebraker-a20c1f.netlify.com)
+Deploiement link [https://hopeful-stonebraker-a20c1f.netlify.com](https://hopeful-stonebraker-a20c1f.netlify.com)
